@@ -3,7 +3,7 @@ This is a section of the dev project currently in progress. With this repository
 ___
 **Note:** Each tasks will be attributed to an author otherwise specified as anonymous.
 ___
-## How to make a pull request for the Exercise API
+## Guidelines of Contributing in the Exercise API
 
 This API contains an array of objects called tasks, each objects contains keys and values. To add to this, simply locate the closing braces of the last object, add a comma and create your object.
 Below are the following keys your object should contain with each of their possible data types specified.
